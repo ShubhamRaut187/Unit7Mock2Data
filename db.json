@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "Name": "Shubham Raut",
+        "Email": "raut.shubham4554@gmail.com",
+        "Password": "Shubham@123",
+        "Transactions": [
+          {
+            "Type": "Income",
+            "Category": "Salary",
+            "Amount": "500000",
+            "Date": "05/05/2023"
+          },
+          {
+            "Type": "Expense",
+            "Category": "Bills",
+            "Amount": "1000",
+            "Date": "07/05/2023"
+          }
+        ]
+      }
+      
+    ]
+  }
